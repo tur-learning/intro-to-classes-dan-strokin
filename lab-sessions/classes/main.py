@@ -13,3 +13,5 @@ movie2.print_info() #printing the original info
 movie2.calculate_length() #printing the movie length in hours and minutes
 movie2.change_director("Daniel Strokin") #changing the director
 movie2.print_info() #showing the new info
+
+#comment for merge
